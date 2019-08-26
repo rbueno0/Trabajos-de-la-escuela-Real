@@ -8,7 +8,7 @@ int main()
     std::cout << "Hello World!\n";
 }
 
-// Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
+// Ejecutar programa: Ctrl + F5 o menú eeeDepurar > Iniciar sin depurar
 // Depurar programa: F5 o menú Depurar > Iniciar depuración
 
 // Sugerencias para primeros pasos: 1. Use la ventana del Explorador de soluciones para agregar y administrar archivos
