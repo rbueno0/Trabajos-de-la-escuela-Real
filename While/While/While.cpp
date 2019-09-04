@@ -11,7 +11,12 @@ int main()
 	{
 		cout << "introduce un numero: ";
 		cin >> num;
-
+		if (num!=0)
+		{
+			cont = cont + 1;
+			sum = sum + num;
+		}
 	}
+	cout << "La media es: " << sum / cont;
 	return 0;
 }
